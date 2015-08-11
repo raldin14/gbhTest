@@ -1,0 +1,4 @@
+C:\Users\raldin\Desktop\gbh\gbhTest8Palindrome\gbhTest8Palindrome\bin\Debug\gbhTest8Palindrome.exe
+C:\Users\raldin\Desktop\gbh\gbhTest8Palindrome\gbhTest8Palindrome\bin\Debug\gbhTest8Palindrome.pdb
+C:\Users\raldin\Desktop\gbh\gbhTest8Palindrome\gbhTest8Palindrome\obj\x86\Debug\gbhTest8Palindrome.exe
+C:\Users\raldin\Desktop\gbh\gbhTest8Palindrome\gbhTest8Palindrome\obj\x86\Debug\gbhTest8Palindrome.pdb

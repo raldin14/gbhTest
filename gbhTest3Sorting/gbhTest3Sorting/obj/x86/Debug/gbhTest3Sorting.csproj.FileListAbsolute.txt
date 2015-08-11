@@ -1,0 +1,4 @@
+C:\Users\raldin\Desktop\gbh\gbhTest3Sorting\gbhTest3Sorting\bin\Debug\gbhTest3Sorting.exe
+C:\Users\raldin\Desktop\gbh\gbhTest3Sorting\gbhTest3Sorting\bin\Debug\gbhTest3Sorting.pdb
+C:\Users\raldin\Desktop\gbh\gbhTest3Sorting\gbhTest3Sorting\obj\x86\Debug\gbhTest3Sorting.exe
+C:\Users\raldin\Desktop\gbh\gbhTest3Sorting\gbhTest3Sorting\obj\x86\Debug\gbhTest3Sorting.pdb
