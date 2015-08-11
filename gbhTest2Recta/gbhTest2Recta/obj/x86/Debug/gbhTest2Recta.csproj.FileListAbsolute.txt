@@ -1,0 +1,4 @@
+C:\Users\raldin\Desktop\gbh\gbhTest2Recta\gbhTest2Recta\bin\Debug\gbhTest2Recta.exe
+C:\Users\raldin\Desktop\gbh\gbhTest2Recta\gbhTest2Recta\bin\Debug\gbhTest2Recta.pdb
+C:\Users\raldin\Desktop\gbh\gbhTest2Recta\gbhTest2Recta\obj\x86\Debug\gbhTest2Recta.exe
+C:\Users\raldin\Desktop\gbh\gbhTest2Recta\gbhTest2Recta\obj\x86\Debug\gbhTest2Recta.pdb
